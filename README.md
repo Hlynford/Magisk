@@ -5,3 +5,5 @@
 If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
 
 For more information about modules and repos, please check the [official documentation](https://topjohnwu.github.io/Magisk/)
+
+#适用于红米Note4X，用于移除MIUI10温控（Suitable for Redmi Note 4X,Used to remove MIUI10 temperature control）
