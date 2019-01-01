@@ -1,0 +1,7 @@
+id=MIUI10-Temperature
+name=Delete MIUI10 temperature control for Redmi Note 4X(mido)
+version=v1.0
+versionCode=1
+author=Hlynford
+description=适用于红米Note4X，用于移除MIUI10温控（Suitable for Redmi Note 4X,Used to remove MIUI10 temperature control）
+minMagisk=17000
